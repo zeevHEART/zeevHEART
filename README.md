@@ -63,9 +63,9 @@ type foundry, fiction imprint, game dev, apps, non-fiction publishing.
 [![YouTube](https://img.shields.io/badge/@micheliaHEART-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@micheliaHEART)
 
 Zane Silverheart  
-Heart  
 Eriel Heart  
-Zev Whiteheart
+Zeev Whiteheart  
+Heart
 
 <!--
 **micheliaHEART/micheliaHEART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
