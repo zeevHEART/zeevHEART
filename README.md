@@ -62,9 +62,9 @@ type foundry, fiction imprint, game dev, apps, non-fiction publishing.
 [![X @Virtualoka](https://img.shields.io/badge/@Virtualoka-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Virtualoka)
 [![YouTube](https://img.shields.io/badge/@micheliaHEART-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@micheliaHEART)
 
-Zane Silverheart  
+Zane Whiteheart  
 Eriel Heart  
-Zeev Whiteheart  
+Zeev Silverheart  
 Heart
 
 <!--
